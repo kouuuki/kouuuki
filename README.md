@@ -1,4 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouuuki&layout=compact&theme=onedark&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouuuki&theme=onedark&count_private=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kouuuki&theme=onedark&column=7&count_private=true
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **kouuuki/kouuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
