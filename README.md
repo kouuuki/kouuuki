@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouuuki&layout=compact&theme=onedark&count_private=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouuuki&theme=onedark&count_private=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouuuki&layout=compact&theme=tokyonight&count_private=true&langs_count=10&hide=html,css" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouuuki&theme=tokyonight&count_private=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kouuuki&theme=onedark&column=7&count_private=true
